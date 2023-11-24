@@ -1,0 +1,59 @@
+*{
+  background-color:#95afc0;
+  text-align: center;
+}
+
+#search_bar {
+  background-color: #f6e58d;
+  margin-top: 80px;
+  color: white;
+  width: 250px;
+  height: 30px;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: rgb(20, 20, 20);
+}
+#submit {
+  background-color: rgb(93, 245, 131);
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#submit:hover {
+  background-color: rgb(76, 204, 109);
+}
+#city{
+  margin-top: 150px;
+  font-size: 35px;
+  color: white;
+  font-weight: 900;
+}
+
+#date{
+  color: white;
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+#temperature{
+  color: white;
+  font-size: 70px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#types_temp{
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  margin-top: 20px;
+
+}
+
